@@ -95,8 +95,8 @@ analytics:
 author:
   name             : "Sunkwan Kim"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "꿈꾸는 개발자 김선관입니다."
-  location         : "Somewhere"
+  bio              : ""
+  location         : ""
   email            : "skyvlu@gmail.com"
   links:
     - label: "Email"
