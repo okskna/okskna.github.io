@@ -1,7 +1,12 @@
 ---
 title: "[effective js] item 3. 암묵적인 형변환"
 date: 2020-10-17 18:21:00 +0900
-categories: effective js
+categories: 
+  - javascript
+tags:
+  - effective js
+toc: true
+toc_sticky: true
 ---
 
 #### 1. + 연산자
