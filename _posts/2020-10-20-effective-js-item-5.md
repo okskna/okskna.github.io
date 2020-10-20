@@ -56,7 +56,9 @@ if (+form.month.value === (today.getMonth() + 1) &&
 
  두 인자가 동일한 데이터형이라면 ==이나 ===이나 아무런 차이가 없다. 하지만 코드를 읽는 사람에게 형변환이 연관되지 않는다는 점을 확실히 보여주는 더 좋은 방법은 ===연산자를 사용하는 것이다. 그렇지 않으면 코드의 동작을 판독하기 위해 정확한 강제 형변환 법칙을 다시 상기시켜 주어야 한다.
 
-<연산자의 강제 형변환 규칙>
+
+ 연산자의 강제 형변환 규칙은 다음 표와 같다.
+ 
 
 | 인자 타입 1           | 인자 타입 2                 | 강제 형변환                                                  |
 | --------------------- | --------------------------- | ------------------------------------------------------------ |
@@ -66,7 +68,7 @@ if (+form.month.value === (today.getMonth() + 1) &&
 | primitive data type   | *obj*(not *Date*)           | primitive type => 숫자;<br />Date obj => primitive(valueOf후 toString) |
 | primitive data type   | primitive data type         | primitive type => 숫자;                                      |
 
-
+---
 
 >  요약
 >
