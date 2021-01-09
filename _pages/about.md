@@ -9,8 +9,5 @@ toc: true
 test about.md
 
 <script>
-  var GOOG_FIXURL_LANG = 'en';
-  var GOOG_FIXURL_SITE = '{{ site.url }}'
-</script>
-<script src="https://linkhelp.clients.google.com/tbproxy/lh/wm/fixurl.js">
+    console.log("Done?");
 </script>
