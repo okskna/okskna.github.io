@@ -1,16 +1,13 @@
 ---
-title: "[browser] DOM"
-date: 2021-01-08 02:26:00 +0900
+title: "[browser] CRPDiagram"
+date: 2021-01-08 20:08:00 +0900
 categories: 
   - browser
 tags:
-  - DOM
-  - CSSOM
   - Critical Rendering Path
   - CRP
 toc: true
 toc_sticky: true
-
 ---
 
 
